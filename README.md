@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chuliuT
 - 👀 I’m interested in DeepLearning,PyTorch
-- 🌱 I’m currently learning paddle
-- 💞️ I’m looking to collaborate on Multi Task Learning
+- 🌱 I’m currently learning cuda llm and tensorrt bevfusion and tpvformer
+- 💞️ I’m looking to collaborate on cuda trt
 - 📫 How to reach me ethon_tang@foxmail.com
 
 <!---
